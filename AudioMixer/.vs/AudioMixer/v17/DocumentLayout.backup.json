@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Git\\-AudioMixer\\AudioMixer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EE5FFF73-0612-EE53-B848-3F94AD6E89ED}|Assembly-CSharp.csproj|c:\\git\\-audiomixer\\audiomixer\\assets\\scripts\\audiopanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE5FFF73-0612-EE53-B848-3F94AD6E89ED}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\audiopanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EE5FFF73-0612-EE53-B848-3F94AD6E89ED}|Assembly-CSharp.csproj|c:\\git\\-audiomixer\\audiomixer\\assets\\scripts\\buttonplaysound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE5FFF73-0612-EE53-B848-3F94AD6E89ED}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\buttonplaysound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE5FFF73-0612-EE53-B848-3F94AD6E89ED}|Assembly-CSharp.csproj|c:\\git\\-audiomixer\\audiomixer\\assets\\scripts\\exposedparameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE5FFF73-0612-EE53-B848-3F94AD6E89ED}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\exposedparameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE5FFF73-0612-EE53-B848-3F94AD6E89ED}|Assembly-CSharp.csproj|C:\\Git\\-AudioMixer\\AudioMixer\\assets\\scripts\\playsound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE5FFF73-0612-EE53-B848-3F94AD6E89ED}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playsound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EE5FFF73-0612-EE53-B848-3F94AD6E89ED}|Assembly-CSharp.csproj|C:\\Git\\-AudioMixer\\AudioMixer\\assets\\scripts\\slidervolume.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE5FFF73-0612-EE53-B848-3F94AD6E89ED}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\slidervolume.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,40 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ExposedParameter.cs",
-              "DocumentMoniker": "C:\\Git\\-AudioMixer\\AudioMixer\\Assets\\Scripts\\ExposedParameter.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\ExposedParameter.cs",
-              "ToolTip": "C:\\Git\\-AudioMixer\\AudioMixer\\Assets\\Scripts\\ExposedParameter.cs",
-              "RelativeToolTip": "Assets\\Scripts\\ExposedParameter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Title": "SliderVolume.cs",
+              "DocumentMoniker": "C:\\Git\\-AudioMixer\\AudioMixer\\Assets\\Scripts\\SliderVolume.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SliderVolume.cs",
+              "ToolTip": "C:\\Git\\-AudioMixer\\AudioMixer\\Assets\\Scripts\\SliderVolume.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SliderVolume.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T12:12:47.548Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-07T05:00:32.086Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AudioPanel.cs",
-              "DocumentMoniker": "C:\\Git\\-AudioMixer\\AudioMixer\\Assets\\Scripts\\AudioPanel.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\AudioPanel.cs",
-              "ToolTip": "C:\\Git\\-AudioMixer\\AudioMixer\\Assets\\Scripts\\AudioPanel.cs",
-              "RelativeToolTip": "Assets\\Scripts\\AudioPanel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Title": "ButtonPlaySound.cs",
+              "DocumentMoniker": "C:\\Git\\-AudioMixer\\AudioMixer\\Assets\\Scripts\\ButtonPlaySound.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ButtonPlaySound.cs",
+              "ToolTip": "C:\\Git\\-AudioMixer\\AudioMixer\\Assets\\Scripts\\ButtonPlaySound.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ButtonPlaySound.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T11:49:41.15Z",
+              "WhenOpened": "2025-05-07T05:31:37.491Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PlaySound.cs",
-              "DocumentMoniker": "C:\\Git\\-AudioMixer\\AudioMixer\\Assets\\Scripts\\PlaySound.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\PlaySound.cs",
-              "ToolTip": "C:\\Git\\-AudioMixer\\AudioMixer\\Assets\\Scripts\\PlaySound.cs",
-              "RelativeToolTip": "Assets\\Scripts\\PlaySound.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T11:33:12.653Z"
             }
           ]
         }
